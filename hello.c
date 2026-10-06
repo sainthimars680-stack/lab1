@@ -3,6 +3,6 @@
 
 int main() {
 SetConsoleOutputCP(CP_UTF8);
-printf("Привіт, C!\n");
+printf("Hello from branch!\n");
 return 0;
 }
